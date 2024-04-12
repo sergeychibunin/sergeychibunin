@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergeychibunin
 - 👀 I’m interested in distributed systems
-- 🌱 I’m currently learning Java, Haskell, PostgreSQL
+- 🌱 I’m currently learning Functional Programming, Haskell
 - 💞️ I’m looking to collaborate on ... not now
 - 📫 How to reach me - email
 
